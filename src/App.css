@@ -1,0 +1,34 @@
+body{
+  background:url(https://wallpaperaccess.com/full/5067315.jpg) no-repeat center center fixed;
+  background-size:cover;   
+}
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color: #d1e705;
+  background-color: #8f13f5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #40d41b;
+}
+.aligned{
+  display: flex;
+  margin: 40px auto;
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+  text-align: center;
+  color: white;
+  font-size:35px;
+  text-shadow:2px 1px rgb(226, 167, 6);
+}
